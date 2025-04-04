@@ -21,8 +21,7 @@
 
   ### Career
   
-`WoowaBros Server developer`
-- 2023.12~2024.11
+`WoowaBros Server developer` (2023.12~2024.11)
   
   ### Education
   
